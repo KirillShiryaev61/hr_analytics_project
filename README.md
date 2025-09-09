@@ -125,9 +125,9 @@ HR-аналитики компании «Работа с заботой» пом
 
 **Технологии:**
 
-* **Data Processing**: numpy, pandas
-* **Visualization**: matplotlib, seaborn
-* **ML & Preprocessing**: scikit-learn (масштабирование, кодирование, Pipeline, ColumnTransformer, модели, метрики)
-* **Statistical Analysis**: scipy, statsmodels (VIF, тесты нормальности)
-* **Correlation Analysis**: phik — для анализа связей между числовыми и категориальными признаками
-* **Model Interpretation**: shap — объяснение предсказаний моделей
+* **Data Processing**: numpy, pandas;
+* **Visualization**: matplotlib, seaborn;
+* **ML & Preprocessing**: scikit-learn (масштабирование, кодирование, Pipeline, ColumnTransformer, модели, метрики);
+* **Statistical Analysis**: scipy, statsmodels (VIF, тесты нормальности);
+* **Correlation Analysis**: phik — для анализа связей между числовыми и категориальными признаками;
+* **Model Interpretation**: shap — объяснение предсказаний моделей.
